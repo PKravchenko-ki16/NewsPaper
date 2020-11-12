@@ -21,9 +21,9 @@ Show an example of interaction with several autonomous microservices, interactio
 
 2. Replace ConnectionStrings in appsettings on projects - [Articles](https://github.com/PKravchenko-ki16/NewsPaper.Articles),
 [Accounts](https://github.com/PKravchenko-ki16/NewsPaper.Accounts), 
-[IdentityServer]().
+[IdentityServer](https://github.com/PKravchenko-ki16/NewsPaper.IdentityServer).
 
-3. Uncomment DatabaseInitializer.Init in Program.cs && Apply Migration [IdentityServer]().
+3. Uncomment DatabaseInitializer.Init in Program.cs && Apply Migration [IdentityServer](https://github.com/PKravchenko-ki16/NewsPaper.IdentityServer).
 
 ## Service interaction
 
