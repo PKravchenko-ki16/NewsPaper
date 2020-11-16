@@ -27,7 +27,7 @@ Show an example of interaction with several autonomous microservices, interactio
 
 ## Service interaction
 
-![Alt-текст](https://downloader.disk.yandex.ru/preview/e304b2df662d5d99e91b71747bc7b2ba59a9992263e658d96937ee129237feaf/5fabf7a0/VUHxBsYNKkEoy_LddVsUJYfDiZGeRwA3E60lutdfs4p4MhsQ3jLJMfP_76twK_rye2OaSzzsPWXwyDG0Gv2oFQ==?uid=0&filename=NewsPapar.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=311404214&size=2048x2048 "Service interaction")
+![Alt-текст](https://user-images.githubusercontent.com/26356921/99260684-c5f87a80-282c-11eb-8c6e-6ad5b8d63bdb.png "Service interaction")
 
 ## Links to used libraries
 - [EntityFrameworkCore](https://github.com/dotnet/efcore)
